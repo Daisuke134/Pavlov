@@ -21,7 +21,7 @@ To start making real-time predictions, run:
    ```bash
    python predict.py
    ``` 
-Make sure your Muse device is connected  and streaming data.
+※Make sure your Muse device is connected and streaming data.
 
 ## Training and Evaluation
 If you wish to evaluate the model's performance or retrain it with new data, follow these steps:
@@ -36,7 +36,7 @@ If you wish to evaluate the model's performance or retrain it with new data, fol
    ```
 3. Train and evaluate the Random Forest model(This will use the generated text file to train the model and output its performance metrics):
    ```bash
-　　　　　　　python model.py
+　　　　　　python model.py
    ```
 
 ## Libraries Used
