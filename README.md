@@ -39,16 +39,6 @@ If you wish to evaluate the model's performance or retrain it with new data, fol
    python model.py
    ```
 
-## Libraries Used
-The project uses several libraries which need to be installed:
-- numpy
-- pandas
-- scikit-learn
-- joblib
-- python-osc
-
-These can be installed using the requirements.txt file provided in the repository.
-
 ## Contributing
 Please feel free to contribute to the project by making a pull request or opening an issue.
 
