@@ -38,7 +38,6 @@ If you wish to evaluate the model's performance or retrain it with new data, fol
    ```bash
 　　　　　　python model.py
    ```
-
 ## Libraries Used
 The project uses several libraries which need to be installed:
 - numpy
