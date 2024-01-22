@@ -5,17 +5,23 @@ This project uses a pre-trained model to analyze EEG data from the Muse device i
 
 ## Setup Instructions
 1. Clone the repository:
+   ```bash
    git clone https://github.com/Daisuke134/NF_MUSE.git
+   ```  
 
-2. Navigate to the cloned directory:
+3. Navigate to the cloned directory:
+   ```bash   
    cd NF_MUSE
-
-3. Install required libraries:
+   ``` 
+5. Install required libraries:
+   ```bash
    pip install -r requirements.txt
-
+   ``` 
 ## Running the Predictions
 To start making real-time predictions, run:
+   ```bash
    python predict.py
+   ``` 
 Make sure your Muse device is connected and streaming data.
 
 ## Libraries Used
