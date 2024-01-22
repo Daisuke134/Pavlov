@@ -35,9 +35,9 @@ If you wish to evaluate the model's performance or retrain it with new data, fol
    python data.py
    ```
 3. Train and evaluate the Random Forest model(This will use the generated text file to train the model and output its performance metrics):
-
-　　　　　　python model.py
-
+   ```bash 
+   python model.py
+   ```
 
 ## Libraries Used
 The project uses several libraries which need to be installed:
