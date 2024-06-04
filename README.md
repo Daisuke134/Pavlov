@@ -45,7 +45,7 @@ Please feel free to contribute to the project by making a pull request or openin
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-For any questions or support, please contact [Your Contact Information].
+For any questions or support, please contact [keiodaisuke@gmail.com].
 
 
 
