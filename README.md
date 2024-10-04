@@ -1,8 +1,7 @@
-# NF_MUSE Project
+# Pavlov
 
 ## Overview
-This project uses a pre-trained Random Forest Model to predict Mind Wandering (MW) in real-time. If MW is detected, a beep sound will be played as a neurofeedback!!
-This requires a Muse headband connected with the Mind Monitor application, which sends the EEG data to the target IP address of the device running the code (PC), with port number 5000 specified.
+Pavlov is a real-time feedback app that uses EEG data from Muse 2 to make you more mindful. It detects when your mind drifts and provides a brief beep to refocus you, helping you stay present and aware.
 
 ## Setup Instructions
 1. Clone the repository:
